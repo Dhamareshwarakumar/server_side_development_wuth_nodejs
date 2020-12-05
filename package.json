@@ -1,0 +1,23 @@
+{
+  "name": "server_side_development_wuth_nodejs",
+  "version": "1.0.0",
+  "description": "Learning Server Side Web Development with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhamareshwarakumar/server_side_development_wuth_nodejs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "MongoDB"
+  ],
+  "author": "Dhamareshwarakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhamareshwarakumar/server_side_development_wuth_nodejs/issues"
+  },
+  "homepage": "https://github.com/Dhamareshwarakumar/server_side_development_wuth_nodejs#readme"
+}
